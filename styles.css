@@ -47,3 +47,6 @@ td{
 	display:flex;
 	justify-content:space-between;
 }
+.media-icons{
+	display:flex;
+}
